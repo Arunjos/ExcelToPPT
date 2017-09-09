@@ -1,0 +1,2 @@
+### What is this repository for? ###
+   It is a VBA project which converts an excel file into a power point presentation. There is a button in admin tab that will allow the user to export the information entered on the excel spreadsheet template to a PPT slide.  The button will activate the procedure of opening and be populating specific fields of information entered on the spreadsheet into the corresponding tables on the PPT slide.
